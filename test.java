@@ -1,1 +1,1 @@
-vim test.java
+hello world
